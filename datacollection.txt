@@ -1,0 +1,10 @@
+The data collection is using Python 3 with tweepy.
+based on Adil Moujahid's blog:
+http://adilmoujahid.com/posts/2014/07/twitter-analytics/
+with some modifications.
+the code is in twittertreamer.py.
+
+
+
+
+

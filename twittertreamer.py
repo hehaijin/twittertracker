@@ -1,3 +1,9 @@
+#this file runs on Python 2
+#captures in real time the tweets contains the keyworkds.
+#run python twitterstreamer.py >> output.txt in windows to get output file.
+# or python twitterstreamer.py | output.txt in Linux
+
+
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream

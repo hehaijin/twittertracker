@@ -4,6 +4,9 @@ http://adilmoujahid.com/posts/2014/07/twitter-analytics/
 with some modifications.
 the code is in twittertreamer.py.
 
+Using the code, I collected 64 MB of data, containing about 6400 tweets related to president Trump, in less than 10 miniuts. 
+
+The preliminary data analysis is based on this small data set. For the project, a much larger data set spanning much longer time would be required. 
 
 
 
